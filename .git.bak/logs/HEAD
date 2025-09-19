@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 af3edbcdedebf71446f4aaf708923b8aba42af9e Sumanth2989 <sa2989@njit.edu> 1758306606 -0400	commit (initial): Initial commit: calculator, tests, CI, README
+af3edbcdedebf71446f4aaf708923b8aba42af9e dc58b2eacc4414139d194e79cf0cab78932bb6a3 Sumanth2989 <sa2989@njit.edu> 1758306800 -0400	commit: Allow committing .vscode settings
